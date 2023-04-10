@@ -1,0 +1,5 @@
+# Developing machine learning and deep learning systems for classification and regression
+
+This repository contains the final project I developed during my Advanced School in Artificial Intelligence (AS-AI). [Here](./Certificate_of_Attendance_Maglianella.pdf) you can find the Certificate of Attendance with details on courses attended and projects accomplished.
+
+The project consists of building machine learning and deep learning systems for classification and regression tasks. [Here](./Project_outline_Maglianella.pdf) you can find an outline of the project. You can find the classification task [here](./Final_Project_Maglianella_Classifier.ipynb) and the regression task [here](./Final_Project_Maglianella_Regressor.ipynb). Check out the [report](./Final_Project_Report_Maglianella.pdf) for full details.
